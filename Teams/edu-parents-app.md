@@ -24,9 +24,9 @@ appliesto:
   - Microsoft Teams
 ---
 > [!IMPORTANT]
-> The Parent Connection app which helps educators connect with the parents and guardians of the students in their class teams using Teams for Education, is being retired and will no longer be available after 30th Sep 2025.
+> The Parent Connection app, which helps educators connect with the parents and guardians of the students in their class teams using Teams for Education, is being retired and will no longer be available after Sep 30th, 2025.
 >
-> This change will not impact the existing functionality of the [Weekly guardian email digest](https://support.microsoft.com/en-us/topic/send-weekly-assignment-summaries-to-parents-and-guardians-bfdd9cd9-e542-46b6-9d46-94dda373a1cd) that allows education institutions to send assignment summaries to parents/guardians.
+> This change won't impact the existing functionality of the [Weekly guardian email digest](https://support.microsoft.com/en-us/topic/send-weekly-assignment-summaries-to-parents-and-guardians-bfdd9cd9-e542-46b6-9d46-94dda373a1cd) that allows education institutions to send assignment summaries to parents/guardians.
 
 # Set up Parent Connection in Microsoft Teams for Education
 
